@@ -2,11 +2,10 @@
 
 ## Instructions
 
-1.Unzip 
-2.Run
+1. Unzip 
+2. Run
 
-*	npm i
+		npm i
+3. Then
 
-3.Then
-
-*	npm start 
+		npm start
